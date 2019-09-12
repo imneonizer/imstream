@@ -112,6 +112,8 @@ FPS: 3880
 
 Woah! I didn't believed on my eyes, well it's True. 
 
+Note:- If you are showing frames you can terminate is by pressing ``q`` key on your keyboard.
+
 **I was running this Test on:**
 
 - Lenovo Think Pad X240
