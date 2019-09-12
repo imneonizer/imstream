@@ -29,6 +29,7 @@ Using this module is very easy, you just need to import the imstream module and 
 | success, frame = cap.read() | success, frame = cap.read()            |
 | cv2.imshow('camera', frame) | cap.imshow('camera', frame)            |
 | -                           | print(cap.fps)                         |
+| -                           | frame = cap.resize(frame, width=600)   |
 | -                           | cap.imshow('camera', frame, width=400) |
 | cv2.waitKey(1)              | Built in                               |
 
