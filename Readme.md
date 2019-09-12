@@ -131,5 +131,5 @@ OpenCV is a dependency for imstream but since most of the times everyone uses di
 
 #### Citation
 
-A big thanks to [Adrian Rosebrock]() , Author of biggest Computer Vision blog online [PyimageSearch](https://www.pyimagesearch.com/). This module is built with the code snippets of [imutils](https://pypi.org/project/imutils/) library.
+A big thanks to [Adrian Rosebrock](https://twitter.com/PyImageSearch) , Author of biggest Computer Vision blog online [PyimageSearch](https://www.pyimagesearch.com/). This module is built with the code snippets of [imutils](https://pypi.org/project/imutils/) library.
 
