@@ -123,7 +123,7 @@ Note:- If you are showing frames you can terminate is by pressing ``q`` key on y
 
 #### Things to take care of
 
-OpenCV is a dependency for imstream but since every body uses different versions of OpenCV i didn't mentioned it in the ``install_requires`` library. if you face problem like `Import Error: No Module Name CV2` , you can install it manually.
+OpenCV is a dependency for imstream but since most of the times everyone uses different distribution of OpenCV i didn't mentioned it in the ``install_requires``. but if you face any problem like `Import Error: No Module Name cv2` , you can install it manually.
 
 ````python
 >> pip install opencv-contrib-python
