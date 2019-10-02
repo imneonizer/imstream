@@ -49,8 +49,7 @@ st = time.time()
 while True:
     success, frame = cap.read()
 
-    if not success:
-        break
+    if not success: break
 
     counter+=1
     if (time.time() - st) > 1 :
@@ -88,8 +87,7 @@ cap = imstream.VideoCapture(0)
 while True:
     success, frame = cap.read()
 
-    if not success:
-        break
+    if not success: break
 
     print(f'FPS: {cap.fps}')
 
